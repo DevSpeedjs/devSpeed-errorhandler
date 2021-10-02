@@ -1,0 +1,20 @@
+{
+  "name": "devspeed-errorhandler",
+  "version": "1.0.1",
+  "description": "express Error handler ",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imani brown",
+  "license": "MIT",
+
+  "keywords": [
+    "errorhandler",
+    "express error handler"
+  ]
+}
