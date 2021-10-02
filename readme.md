@@ -48,7 +48,7 @@ the response look like this
   "success": false,
   "Error": {
      "status": 404, 
-     "message": 'not found'
+     "message": "not found"
   }
 }
 ```
